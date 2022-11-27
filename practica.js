@@ -63,5 +63,3 @@ console.table (students);
 let studentRandom = students [Math.floor(Math.random() * students.length)];
 
 console.log (studentRandom);
-
-console.table (students.age);
